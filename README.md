@@ -35,8 +35,3 @@ This project explores **life expectancy at birth** in the **United States** betw
 - Comparison of U.S. vs. Americas average life expectancy
 - Trend analysis from 2000–2021, highlighting key drops during the COVID-19 pandemic
 
-## 📎 View Full Project
-
-[📘 Click here to view the final report notebook](https://github.com/abdullah9519/life-expectancy-us/blob/main/Final%20report.ipynb)
-
-
