@@ -37,5 +37,6 @@ This project explores **life expectancy at birth** in the **United States** betw
 
 ## 📎 View Full Project
 
-[Click here to open the notebook](https://github.com/abdullah9519/life-expectancy-us/blob/main/your-notebook-name.ipynb)
+[📘 Click here to view the final report notebook](https://github.com/abdullah9519/life-expectancy-us/blob/main/Final%20report.ipynb)
+
 
